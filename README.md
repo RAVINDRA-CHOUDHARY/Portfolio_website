@@ -1,2 +1,2 @@
-# Portfolio_website
-this is Portfolio website using HTML CSS JAVACRIPT
+# Fruit Website
+this is Fruit website using HTML CSS JAVACRIPT
